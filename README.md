@@ -5,7 +5,7 @@
 # Desktop preview:
 
 <img src="dist/img/fcc-js-tech-doc-desktop-preview.png" />
-<img src="dist/img/fcc-js-tech-doc-desktop-with-alert-preview.png" />
+<img src="dist/img/fcc-js-tech-doc-desktop-copied-preview.png" />
 
 # Tablet preview:
 
@@ -15,7 +15,7 @@
 
 <p align="center">
   <img src="dist/img/fcc-js-tech-doc-mobile-preview.png" width="45%"/>
-  <img src="dist/img/fcc-js-tech-doc-mobile-with-alert-preview.png" width="45%"/>
+  <img src="dist/img/fcc-js-tech-doc-mobile-copied-preview.png" width="45%"/>
 </p>
 
 # Built with:
